@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    color: aliceblue;
+    font-size: 15px;
+    border: 3px solid rgb(99, 0, 62);
+    border-radius: 12px ;
+
+}
+p{
+    color: aqua;
+    
+}
+.good{
+    color: gold;
+}
+* {
+    text-align: center;
+    font-family:monospace;
+
+}
